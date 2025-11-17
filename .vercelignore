@@ -1,9 +1,9 @@
+# Ignore all runtime & heavy states
 mesh/state/
-verticals/*/state/
-guardian/
-identity/
-governance/state/
-prophet/state/
-*.pem
+verticals/**/state/
+heaven/
+guardian/*-log.json
 *.log
 *.cache
+*.tmp
+*.bak

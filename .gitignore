@@ -7,3 +7,5 @@ guardian/*-log.json
 identity/*
 prophet/state/*
 governance/state/*
+.vercel
+heaven/
