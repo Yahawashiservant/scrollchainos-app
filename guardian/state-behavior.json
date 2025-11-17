@@ -1,0 +1,1796 @@
+{
+  "samples": [
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5540745360944093
+      },
+      "ts": "2025-11-17T08:02:35.677Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.012435111458957038
+      },
+      "ts": "2025-11-17T08:02:40.679Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.22221014324941757
+      },
+      "ts": "2025-11-17T08:02:45.683Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3283612875114479
+      },
+      "ts": "2025-11-17T08:02:49.294Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8082967376510239
+      },
+      "ts": "2025-11-17T08:02:54.295Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5032127398876474
+      },
+      "ts": "2025-11-17T08:02:59.299Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8748482449923373
+      },
+      "ts": "2025-11-17T08:03:04.299Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.07884419009590427
+      },
+      "ts": "2025-11-17T08:03:09.303Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3004474303338698
+      },
+      "ts": "2025-11-17T08:03:14.307Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4644775760634038
+      },
+      "ts": "2025-11-17T08:03:19.307Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.34319524284781244
+      },
+      "ts": "2025-11-17T08:03:22.831Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4420101594320497
+      },
+      "ts": "2025-11-17T08:03:27.835Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.329818898460448
+      },
+      "ts": "2025-11-17T08:03:32.836Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3022904473619561
+      },
+      "ts": "2025-11-17T08:03:37.839Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.03376061949872222
+      },
+      "ts": "2025-11-17T08:03:42.842Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.00654619361636688
+      },
+      "ts": "2025-11-17T08:03:47.843Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9060063085868538
+      },
+      "ts": "2025-11-17T08:03:51.456Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.337013787035064
+      },
+      "ts": "2025-11-17T08:03:56.457Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5611328667573996
+      },
+      "ts": "2025-11-17T08:04:01.461Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4233836351309941
+      },
+      "ts": "2025-11-17T08:04:06.464Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.11473254087772033
+      },
+      "ts": "2025-11-17T08:04:11.468Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.756439539506745
+      },
+      "ts": "2025-11-17T08:04:16.472Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.42023875874462857
+      },
+      "ts": "2025-11-17T08:04:19.984Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.32677764057401903
+      },
+      "ts": "2025-11-17T08:04:24.986Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9980435246885974
+      },
+      "ts": "2025-11-17T08:04:29.991Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8837711747159771
+      },
+      "ts": "2025-11-17T08:04:34.991Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.48005385757713215
+      },
+      "ts": "2025-11-17T08:04:39.995Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8324358807558268
+      },
+      "ts": "2025-11-17T08:04:44.996Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.028647963763383966
+      },
+      "ts": "2025-11-17T08:04:49.998Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6397820181728191
+      },
+      "ts": "2025-11-17T08:04:53.617Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.04862103070735435
+      },
+      "ts": "2025-11-17T08:04:58.619Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4823568518305452
+      },
+      "ts": "2025-11-17T08:05:03.622Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4360719005604142
+      },
+      "ts": "2025-11-17T08:05:08.625Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7830565396180393
+      },
+      "ts": "2025-11-17T08:05:13.629Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.00985755399462862
+      },
+      "ts": "2025-11-17T08:05:18.633Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9920411873860222
+      },
+      "ts": "2025-11-17T08:05:22.190Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2535796362267315
+      },
+      "ts": "2025-11-17T08:05:27.193Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2788890005900966
+      },
+      "ts": "2025-11-17T08:05:32.196Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8953218052259885
+      },
+      "ts": "2025-11-17T08:05:37.197Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.16666918047973278
+      },
+      "ts": "2025-11-17T08:05:42.200Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6640055431097602
+      },
+      "ts": "2025-11-17T08:05:47.200Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9371137318762026
+      },
+      "ts": "2025-11-17T08:05:52.204Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6359232776179848
+      },
+      "ts": "2025-11-17T08:05:55.806Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5776311014976794
+      },
+      "ts": "2025-11-17T08:06:00.807Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.882547337272225
+      },
+      "ts": "2025-11-17T08:06:05.809Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7847927632631901
+      },
+      "ts": "2025-11-17T08:06:10.813Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.16465035341762013
+      },
+      "ts": "2025-11-17T08:06:15.812Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8383900511313463
+      },
+      "ts": "2025-11-17T08:06:20.817Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.25109995055218504
+      },
+      "ts": "2025-11-17T08:06:24.408Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6208341625310084
+      },
+      "ts": "2025-11-17T08:06:29.409Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3988487503457563
+      },
+      "ts": "2025-11-17T08:06:34.413Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8819246195837068
+      },
+      "ts": "2025-11-17T08:06:39.414Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.07965977435629845
+      },
+      "ts": "2025-11-17T08:06:44.418Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8275660366705967
+      },
+      "ts": "2025-11-17T08:06:49.417Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6593738381792048
+      },
+      "ts": "2025-11-17T08:06:54.421Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.1673618140249188
+      },
+      "ts": "2025-11-17T08:06:57.985Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3535199183447496
+      },
+      "ts": "2025-11-17T08:07:02.987Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.018454021735067272
+      },
+      "ts": "2025-11-17T08:07:07.992Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5904260291253298
+      },
+      "ts": "2025-11-17T08:07:12.993Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.021207630746860606
+      },
+      "ts": "2025-11-17T08:07:17.994Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.328500887243136
+      },
+      "ts": "2025-11-17T08:07:22.997Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.17749369546393834
+      },
+      "ts": "2025-11-17T08:07:26.539Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.19892080852774285
+      },
+      "ts": "2025-11-17T08:07:31.544Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7129638408723992
+      },
+      "ts": "2025-11-17T08:07:36.548Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5954453004849944
+      },
+      "ts": "2025-11-17T08:07:41.550Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9689965036713792
+      },
+      "ts": "2025-11-17T08:07:46.554Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9980009487412357
+      },
+      "ts": "2025-11-17T08:07:51.556Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6452144573992621
+      },
+      "ts": "2025-11-17T08:07:56.560Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7443534515882578
+      },
+      "ts": "2025-11-17T08:08:00.164Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3337470823720665
+      },
+      "ts": "2025-11-17T08:08:05.164Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.28621384062021293
+      },
+      "ts": "2025-11-17T08:08:10.168Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3834244373849863
+      },
+      "ts": "2025-11-17T08:08:15.168Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7645766287878075
+      },
+      "ts": "2025-11-17T08:08:20.169Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.843368211520293
+      },
+      "ts": "2025-11-17T08:08:25.172Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5595685293390537
+      },
+      "ts": "2025-11-17T08:08:28.747Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8227114552234325
+      },
+      "ts": "2025-11-17T08:08:33.752Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.19231868968174115
+      },
+      "ts": "2025-11-17T08:08:38.755Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7991309671386072
+      },
+      "ts": "2025-11-17T08:08:43.756Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.43918097532100964
+      },
+      "ts": "2025-11-17T08:08:48.759Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8678955582393094
+      },
+      "ts": "2025-11-17T08:08:53.766Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9058462832589592
+      },
+      "ts": "2025-11-17T08:08:57.382Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.22132671874061216
+      },
+      "ts": "2025-11-17T08:09:02.386Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7174343344012182
+      },
+      "ts": "2025-11-17T08:09:07.387Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8897495238128764
+      },
+      "ts": "2025-11-17T08:09:12.390Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.07132068468666053
+      },
+      "ts": "2025-11-17T08:09:17.394Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5514019895592075
+      },
+      "ts": "2025-11-17T08:09:22.395Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9874167931863602
+      },
+      "ts": "2025-11-17T08:09:27.398Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3483194057908623
+      },
+      "ts": "2025-11-17T08:09:30.928Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5801231517013528
+      },
+      "ts": "2025-11-17T08:09:35.932Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6687219362150986
+      },
+      "ts": "2025-11-17T08:09:40.936Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4908691181361765
+      },
+      "ts": "2025-11-17T08:09:45.938Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3367630407807872
+      },
+      "ts": "2025-11-17T08:09:50.940Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3948979109123206
+      },
+      "ts": "2025-11-17T08:09:55.942Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7491017586508937
+      },
+      "ts": "2025-11-17T08:09:59.479Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8521037948323306
+      },
+      "ts": "2025-11-17T08:10:04.484Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.522589758811136
+      },
+      "ts": "2025-11-17T08:10:09.486Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4467911870201776
+      },
+      "ts": "2025-11-17T08:10:14.488Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9185246461006035
+      },
+      "ts": "2025-11-17T08:10:19.492Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.31287057401152596
+      },
+      "ts": "2025-11-17T08:10:24.493Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6884638969333278
+      },
+      "ts": "2025-11-17T08:10:29.496Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3141244464588009
+      },
+      "ts": "2025-11-17T08:10:33.137Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8621301943704863
+      },
+      "ts": "2025-11-17T08:10:38.142Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7383063068533077
+      },
+      "ts": "2025-11-17T08:10:43.145Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7801399624018823
+      },
+      "ts": "2025-11-17T08:10:48.147Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6414857627322916
+      },
+      "ts": "2025-11-17T08:10:53.149Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6476083607801361
+      },
+      "ts": "2025-11-17T08:10:58.150Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6120229508968557
+      },
+      "ts": "2025-11-17T08:11:01.683Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8490163707468041
+      },
+      "ts": "2025-11-17T08:11:06.687Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.1952731947883971
+      },
+      "ts": "2025-11-17T08:11:11.690Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9047877461907755
+      },
+      "ts": "2025-11-17T08:11:16.695Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.14269229914004944
+      },
+      "ts": "2025-11-17T08:11:21.699Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.1707038662581174
+      },
+      "ts": "2025-11-17T08:11:26.699Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.46930248671396557
+      },
+      "ts": "2025-11-17T08:11:31.703Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2712017158964001
+      },
+      "ts": "2025-11-17T08:11:35.293Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.04896774272438653
+      },
+      "ts": "2025-11-17T08:11:40.293Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.874940706198689
+      },
+      "ts": "2025-11-17T08:11:45.298Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.36635171122833066
+      },
+      "ts": "2025-11-17T08:11:50.300Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.09408442130911598
+      },
+      "ts": "2025-11-17T08:11:55.302Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.57291863685859
+      },
+      "ts": "2025-11-17T08:12:00.306Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4673720339993197
+      },
+      "ts": "2025-11-17T08:12:03.855Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7920182609260531
+      },
+      "ts": "2025-11-17T08:12:08.858Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8309892196968186
+      },
+      "ts": "2025-11-17T08:12:13.861Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3824875184726617
+      },
+      "ts": "2025-11-17T08:12:18.866Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2957407841951333
+      },
+      "ts": "2025-11-17T08:12:23.870Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.43189535687502967
+      },
+      "ts": "2025-11-17T08:12:28.870Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5850894651187308
+      },
+      "ts": "2025-11-17T08:12:33.874Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2315061601039885
+      },
+      "ts": "2025-11-17T08:12:37.496Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6117435618044698
+      },
+      "ts": "2025-11-17T08:12:42.497Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9022136869960894
+      },
+      "ts": "2025-11-17T08:12:47.500Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.31418408120733776
+      },
+      "ts": "2025-11-17T08:12:52.503Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8487898312771571
+      },
+      "ts": "2025-11-17T08:12:57.508Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9522531611999495
+      },
+      "ts": "2025-11-17T08:13:02.512Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.030531681286097623
+      },
+      "ts": "2025-11-17T08:13:06.103Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9391244101549732
+      },
+      "ts": "2025-11-17T08:13:11.108Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.08204328456323395
+      },
+      "ts": "2025-11-17T08:13:16.111Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7870513838683472
+      },
+      "ts": "2025-11-17T08:13:21.114Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6792233603383804
+      },
+      "ts": "2025-11-17T08:13:26.118Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9573975514983785
+      },
+      "ts": "2025-11-17T08:13:31.120Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7946221759038207
+      },
+      "ts": "2025-11-17T08:13:36.122Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.12669195652232446
+      },
+      "ts": "2025-11-17T08:13:39.694Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6694984624042999
+      },
+      "ts": "2025-11-17T08:13:44.694Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4835042829083589
+      },
+      "ts": "2025-11-17T08:13:49.698Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.24906735342844755
+      },
+      "ts": "2025-11-17T08:13:54.701Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.23204851044474217
+      },
+      "ts": "2025-11-17T08:13:59.706Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.30170983356132364
+      },
+      "ts": "2025-11-17T08:14:04.710Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8703563709098048
+      },
+      "ts": "2025-11-17T08:14:08.285Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.0788615981888644
+      },
+      "ts": "2025-11-17T08:14:13.288Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.464982058986786
+      },
+      "ts": "2025-11-17T08:14:18.292Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.49262652890073166
+      },
+      "ts": "2025-11-17T08:14:23.292Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.24581805952190905
+      },
+      "ts": "2025-11-17T08:14:28.296Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.27584258972271825
+      },
+      "ts": "2025-11-17T08:14:33.298Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.20496448043401005
+      },
+      "ts": "2025-11-17T08:14:36.881Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3385881610306285
+      },
+      "ts": "2025-11-17T08:14:41.881Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3458511354308721
+      },
+      "ts": "2025-11-17T08:14:46.882Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5058552131704168
+      },
+      "ts": "2025-11-17T08:14:51.887Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.34516788959806355
+      },
+      "ts": "2025-11-17T08:14:56.889Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.047465969811923525
+      },
+      "ts": "2025-11-17T08:15:01.893Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.011000573644454614
+      },
+      "ts": "2025-11-17T08:15:06.897Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2987428312602297
+      },
+      "ts": "2025-11-17T08:15:10.474Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6548827890726672
+      },
+      "ts": "2025-11-17T08:15:15.476Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.772584522822964
+      },
+      "ts": "2025-11-17T08:15:20.479Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.17340240779306815
+      },
+      "ts": "2025-11-17T08:15:25.479Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9401482388267701
+      },
+      "ts": "2025-11-17T08:15:30.484Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8863096999610561
+      },
+      "ts": "2025-11-17T08:15:35.484Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4600105433267385
+      },
+      "ts": "2025-11-17T08:15:39.067Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8345245235484994
+      },
+      "ts": "2025-11-17T08:15:44.071Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5775654012405717
+      },
+      "ts": "2025-11-17T08:15:49.075Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.24346138301973963
+      },
+      "ts": "2025-11-17T08:15:54.075Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9905543729588808
+      },
+      "ts": "2025-11-17T08:15:59.078Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.823646481464753
+      },
+      "ts": "2025-11-17T08:16:04.083Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6847048714689975
+      },
+      "ts": "2025-11-17T08:16:09.087Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6574938456727589
+      },
+      "ts": "2025-11-17T08:16:12.678Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8963842887399331
+      },
+      "ts": "2025-11-17T08:16:17.680Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.08310968466145485
+      },
+      "ts": "2025-11-17T08:16:22.684Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7880990668540099
+      },
+      "ts": "2025-11-17T08:16:27.684Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.00026444495361621634
+      },
+      "ts": "2025-11-17T08:16:32.688Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.935183159621004
+      },
+      "ts": "2025-11-17T08:16:37.690Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4489358728387661
+      },
+      "ts": "2025-11-17T08:16:41.264Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.23755605813691627
+      },
+      "ts": "2025-11-17T08:16:46.268Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8103896316226531
+      },
+      "ts": "2025-11-17T08:16:51.270Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3780756511048633
+      },
+      "ts": "2025-11-17T08:16:56.272Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5586213904870251
+      },
+      "ts": "2025-11-17T08:17:01.276Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7157234718547862
+      },
+      "ts": "2025-11-17T08:17:06.280Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2555252577781383
+      },
+      "ts": "2025-11-17T08:17:11.284Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.48515904480751215
+      },
+      "ts": "2025-11-17T08:17:14.862Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.49737991550646266
+      },
+      "ts": "2025-11-17T08:17:19.864Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.506339072573615
+      },
+      "ts": "2025-11-17T08:17:24.868Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.08836731559012023
+      },
+      "ts": "2025-11-17T08:17:29.869Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.4030249413269845
+      },
+      "ts": "2025-11-17T08:17:34.872Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6321907137572857
+      },
+      "ts": "2025-11-17T08:17:39.873Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.577683378778664
+      },
+      "ts": "2025-11-17T08:17:43.443Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8026735362516564
+      },
+      "ts": "2025-11-17T08:17:48.447Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.0946861846578465
+      },
+      "ts": "2025-11-17T08:17:53.449Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.05661114270367351
+      },
+      "ts": "2025-11-17T08:17:58.451Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5134712235374649
+      },
+      "ts": "2025-11-17T08:18:03.455Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5530243748053629
+      },
+      "ts": "2025-11-17T08:18:08.455Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.0637116009097366
+      },
+      "ts": "2025-11-17T08:18:13.459Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.26002735160579027
+      },
+      "ts": "2025-11-17T08:18:17.065Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.23871523620196444
+      },
+      "ts": "2025-11-17T08:18:22.067Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9945111229917892
+      },
+      "ts": "2025-11-17T08:18:27.072Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.928217058425336
+      },
+      "ts": "2025-11-17T08:18:32.071Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.26801509132537205
+      },
+      "ts": "2025-11-17T08:18:37.078Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.1926045325561735
+      },
+      "ts": "2025-11-17T08:18:42.079Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.2364443892870841
+      },
+      "ts": "2025-11-17T08:18:45.702Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.714690510967976
+      },
+      "ts": "2025-11-17T08:18:50.706Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9331803190899812
+      },
+      "ts": "2025-11-17T08:18:55.708Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.07888065586618664
+      },
+      "ts": "2025-11-17T08:19:00.710Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.01993344705566724
+      },
+      "ts": "2025-11-17T08:19:05.714Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3306163015651751
+      },
+      "ts": "2025-11-17T08:19:10.715Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9206578426904286
+      },
+      "ts": "2025-11-17T08:19:14.304Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.864568840252145
+      },
+      "ts": "2025-11-17T08:19:19.307Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3470052533593536
+      },
+      "ts": "2025-11-17T08:19:24.312Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.13472575656808394
+      },
+      "ts": "2025-11-17T08:19:49.264Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7446832417555884
+      },
+      "ts": "2025-11-17T08:19:54.265Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5509958272369716
+      },
+      "ts": "2025-11-17T08:19:59.267Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.37354709729217417
+      },
+      "ts": "2025-11-17T08:20:04.271Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5673920688933083
+      },
+      "ts": "2025-11-17T08:20:09.275Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9676932130232574
+      },
+      "ts": "2025-11-17T08:20:14.279Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8911773168337201
+      },
+      "ts": "2025-11-17T08:20:19.281Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.948009048783053
+      },
+      "ts": "2025-11-17T08:20:23.528Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9591235864136443
+      },
+      "ts": "2025-11-17T08:20:28.532Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.18979882089427835
+      },
+      "ts": "2025-11-17T08:20:33.532Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8534643349649043
+      },
+      "ts": "2025-11-17T08:20:38.537Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.75773359754154
+      },
+      "ts": "2025-11-17T08:20:43.539Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9775201914897748
+      },
+      "ts": "2025-11-17T08:20:48.544Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.571255679356237
+      },
+      "ts": "2025-11-17T08:20:52.623Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3742568891100482
+      },
+      "ts": "2025-11-17T08:20:57.623Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6147961857860421
+      },
+      "ts": "2025-11-17T08:21:02.628Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.11630919188888456
+      },
+      "ts": "2025-11-17T08:21:07.627Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.41527599215783695
+      },
+      "ts": "2025-11-17T08:21:12.628Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7409599005976043
+      },
+      "ts": "2025-11-17T08:21:17.631Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9128143490536854
+      },
+      "ts": "2025-11-17T08:21:22.634Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8180713901211142
+      },
+      "ts": "2025-11-17T08:21:26.775Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3563204044810052
+      },
+      "ts": "2025-11-17T08:21:31.779Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8831760457182737
+      },
+      "ts": "2025-11-17T08:21:36.780Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.12220959988410451
+      },
+      "ts": "2025-11-17T08:21:41.783Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.9870620971503362
+      },
+      "ts": "2025-11-17T08:21:46.786Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6390763862129384
+      },
+      "ts": "2025-11-17T08:21:51.791Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.17567235353368726
+      },
+      "ts": "2025-11-17T08:21:55.945Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.1972724687759816
+      },
+      "ts": "2025-11-17T08:22:00.946Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5246927622587427
+      },
+      "ts": "2025-11-17T08:22:05.949Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.709522120197069
+      },
+      "ts": "2025-11-17T08:22:10.949Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.06764886800367731
+      },
+      "ts": "2025-11-17T08:22:15.949Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.15110658470812743
+      },
+      "ts": "2025-11-17T08:22:20.953Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.25900114958217557
+      },
+      "ts": "2025-11-17T08:22:25.081Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.8745543131510624
+      },
+      "ts": "2025-11-17T08:22:30.082Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.3746850978705685
+      },
+      "ts": "2025-11-17T08:22:35.086Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.7182545442658613
+      },
+      "ts": "2025-11-17T08:22:40.088Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.15094481464680576
+      },
+      "ts": "2025-11-17T08:22:45.090Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6796894660504661
+      },
+      "ts": "2025-11-17T08:22:50.094Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.15236773909515333
+      },
+      "ts": "2025-11-17T08:22:55.098Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.40620621250766376
+      },
+      "ts": "2025-11-17T08:22:59.180Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.46949248619646755
+      },
+      "ts": "2025-11-17T08:23:04.180Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.5304798084581487
+      },
+      "ts": "2025-11-17T08:23:09.184Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6572019990808593
+      },
+      "ts": "2025-11-17T08:23:14.188Z"
+    },
+    {
+      "sample": {
+        "cmdHint": "system-cycle",
+        "cadence": 0.6708761132232094
+      },
+      "ts": "2025-11-17T08:23:19.189Z"
+    }
+  ]
+}

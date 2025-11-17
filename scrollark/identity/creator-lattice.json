@@ -1,0 +1,11 @@
+{
+  "creator": "KEITH",
+  "rootAuthority": true,
+  "divineLaw": [
+    "YHWH", 
+    "Yahawashi",
+    "RawChaa Qadash"
+  ],
+  "protectionLevel": "SOVEREIGN-ULTIMATE",
+  "created": "$(date --iso-8601=seconds)"
+}

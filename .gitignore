@@ -1,0 +1,9 @@
+mesh/state/*
+verticals/*/state/*
+guardian/*-log.json
+*.log
+*.cache
+*.pem
+identity/*
+prophet/state/*
+governance/state/*

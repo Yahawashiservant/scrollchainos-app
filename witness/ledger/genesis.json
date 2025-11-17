@@ -1,0 +1,7 @@
+{
+  "creator": "KEITH",
+  "authority": "SOVEREIGN",
+  "divineLaw": ["YHWH", "Yahawashi", "RawChaa Qadash"],
+  "immutable": true,
+  "created": "$(date --iso-8601=seconds)"
+}
