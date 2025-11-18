@@ -1,11 +1,6 @@
-mesh/state/*
-verticals/*/state/*
-guardian/*-log.json
+node_modules/
+.next/
+.vercel/
 *.log
-*.cache
-*.pem
-identity/*
-prophet/state/*
-governance/state/*
-.vercel
-heaven/
+.DS_Store
+pnpm-debug.log*
